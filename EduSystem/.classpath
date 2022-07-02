@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/EduSystem.jar"/>
+	<classpathentry kind="lib" path="dist/lib/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="Usuper/sqljdbc42.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
